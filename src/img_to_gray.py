@@ -25,3 +25,5 @@ plt.show()
 
 plt.imshow(grayImage, cmap='gray')
 plt.show()
+
+
